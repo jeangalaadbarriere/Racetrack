@@ -1,0 +1,19 @@
+<svg width='212px' height='300px' xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink'>
+    <line stroke='#ffff00' stroke-width='5px' y2='252' x2='189' y1='252' x1='105' />
+    <circle stroke='#0000ff' stroke-width='1px' fill='#0000ff' r='5' cy='126' cx='21' />
+    <circle stroke='#0000ff' stroke-width='1px' fill='#0000ff' r='5' cy='126' cx='21' />
+    <line stroke='#0000ff' stroke-width='5px' y2='126' x2='21' y1='126' x1='21' />
+    <circle stroke='#0000ff' stroke-width='1px' fill='#0000ff' r='5' cy='126' cx='21' />
+    <line stroke='#0000ff' stroke-width='5px' y2='105' x2='42' y1='126' x1='21' />
+    <circle stroke='#0000ff' stroke-width='1px' fill='#0000ff' r='5' cy='105' cx='42' />
+    <line stroke='#0000ff' stroke-width='5px' y2='105' x2='84' y1='105' x1='42' />
+    <circle stroke='#0000ff' stroke-width='1px' fill='#0000ff' r='5' cy='105' cx='84' />
+    <line stroke='#0000ff' stroke-width='5px' y2='126' x2='126' y1='105' x1='84' />
+    <circle stroke='#0000ff' stroke-width='1px' fill='#0000ff' r='5' cy='126' cx='126' />
+    <line stroke='#0000ff' stroke-width='5px' y2='168' x2='147' y1='126' x1='126' />
+    <circle stroke='#0000ff' stroke-width='1px' fill='#0000ff' r='5' cy='168' cx='147' />
+    <line stroke='#0000ff' stroke-width='5px' y2='210' x2='147' y1='168' x1='147' />
+    <circle stroke='#0000ff' stroke-width='1px' fill='#0000ff' r='5' cy='210' cx='147' />
+    <line stroke='#0000ff' stroke-width='5px' y2='252' x2='147' y1='210' x1='147' />
+    <circle stroke='#ffff00' stroke-width='1px' fill='#ffff00' r='5' cy='252' cx='147' />
+</svg>
